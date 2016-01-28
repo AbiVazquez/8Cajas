@@ -1,0 +1,19 @@
+div {
+	height: 100px;
+	width: 100px;
+	border: 3px solid black;
+	margin: 10px;
+	background: #6E6E6E
+}
+.grande{
+	height: 125px;
+	width: 400px;
+}
+.cuadros {
+	display: inline-block;
+	background: #2EFEC8
+}
+.lado{
+	display: inline-block;
+}
+
